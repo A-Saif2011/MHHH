@@ -1,0 +1,7 @@
+ollama
+faster-whisper
+sounddevice
+numpy
+scipy
+pyttsx3
+keyboard
